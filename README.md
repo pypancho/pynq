@@ -5,4 +5,4 @@ In this repository, there are two projects:
         Face Detection in a group photo;
         Face Detection from a camera;
     Projects 2:License Plate Recognition.
-Please run projects in a Jupyter Notebook.Also, please do not forget to change the location of photo or video.
+Please run projects in a Jupyter Notebook on a PYNQ board. Also, please do not forget to change the location of photo or video.
