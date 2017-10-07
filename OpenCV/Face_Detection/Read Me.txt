@@ -1,0 +1,7 @@
+Please save the CU.ipynb on the following directory:
+dir_path ="/home/xilinx/jupyter_notebooks/OpenCV/Face_Detection/"
+
+Please save the images folders as follows:
+filepath ="/home/xilinx/jupyter_notebooks/OpenCV/Face_Detection/images/"
+
+If you do not have the directory, please creat by yourself.
